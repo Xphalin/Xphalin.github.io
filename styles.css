@@ -1,0 +1,18 @@
+body {
+  background: DarkGoldenRod;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: DarkMagenta;
+  text-align: center;
+}
+.assign{
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background: LightPink;
+}
+.assign img {
+  width: 200px;
+  padding: 10px;
+}
