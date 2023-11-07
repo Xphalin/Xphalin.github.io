@@ -1,5 +1,5 @@
 body {
-  background: DarkGoldenRod;
+  background: #ffff00;
   font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -24,5 +24,5 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: #ff0000;
+  color: #000000;
 }
